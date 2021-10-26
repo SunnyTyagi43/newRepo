@@ -1,6 +1,6 @@
 SQL keywords are NOT case sensitive:
 select is the same as SELECT
-Table is same as TABLE
+Table is same as TABLE and TaBle
 ---------------------------------------------------------------------------------------------------
 
 SELECT - extracts data from a database
