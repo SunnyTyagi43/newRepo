@@ -3,7 +3,7 @@ select is the same as SELECT
 Table is same as TABLE and TaBle
 ---------------------------------------------------------------------------------------------------
 
-SELECT - extracts data from a database
+SELECT - extracts data from a database, it return a table.
 UPDATE - updates data in a database
 DELETE - deletes data from a database
 INSERT INTO - inserts new data into a database
