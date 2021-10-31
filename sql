@@ -23,7 +23,7 @@ SELECT return a result table
 
 ---------------------------------------------------------------------------------------------------
 
-Order by column1, column2    // sbse phle ordering hogi column1 k according, uske baad column 2 k according.
+Order by column1, column2, column3    // sbse phle ordering hogi column1 k according, uske baad column 2 k according.
 							// if sorting is not possible for particula one then ordering will be take place
 							// for other column
 
