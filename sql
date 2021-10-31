@@ -1,4 +1,4 @@
-SQL keywords are NOT case sensitive:
+SQL keywords aren't case sensitive:
 select is the same as SELECT
 Table is same as TABLE and TaBle
 ---------------------------------------------------------------------------------------------------
