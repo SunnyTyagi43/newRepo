@@ -46,7 +46,7 @@ select * from nit where branch is null;
 ---------------------------------------------------------------------------------------------------
 
 update nit
-set rollNo=185026
+set rollNo=185022
 where name="Sunny";
 
 if we neglect the where clause then it will upadte the column values in all row
